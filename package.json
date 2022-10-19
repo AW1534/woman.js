@@ -1,17 +1,17 @@
 {
   "name": "woman.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Literally just a package that has a collection of popular stuffs that a woman say to a man.",
   "main": "woman",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./woman/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AW1534/woman.js.git"
   },
   "keywords": [
-    "b"
+    "woman", "funny"
   ],
   "author": "addikted",
   "license": "ISC",

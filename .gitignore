@@ -1,2 +1,7 @@
 # Project exclude paths
 /node_modules/
+
+# Including lock files too, we don't really need it imo
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
